@@ -449,7 +449,7 @@ table{
 
 .table th{
   color: rgb(15, 2, 61);
-  padding: 0px 30px 10px 30px;
+  padding: 0px 40px 10px 40px;
   border-bottom: 2px solid rgb(213, 211, 211);
   text-align: center;
 }
@@ -640,6 +640,7 @@ table{
 .en11{
   text-align: center;
 }
+
 
 
 
